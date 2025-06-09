@@ -1,0 +1,8 @@
+
+{
+  "symbol": "XAUUSD",
+  "action": "buy",
+  "lot": 0.01,
+  "sl": 2350.00,
+  "tp": 2400.00
+}
